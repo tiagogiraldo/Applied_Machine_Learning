@@ -10,7 +10,7 @@ In sample challenge, the classes has this composite.
 
 
 | Statistic | Images By Label |
-|-----------|-----------------|
+|:---       |             ---:|
 |count      |        38.000000|
 |mean       |       576.763158|
 |std        |       505.201027|
