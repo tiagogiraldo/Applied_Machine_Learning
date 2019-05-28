@@ -1,0 +1,2 @@
+# Applied_Machine_Learning-Computer_Vision-PlantVillage_Disease_Classification_Challenge
+Transfer Learning applied to PlantVillage Disease Classification Challenge Crowd ai
